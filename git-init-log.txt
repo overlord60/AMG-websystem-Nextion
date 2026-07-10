@@ -1,0 +1,51 @@
+﻿fatal: not a git repository (or any of the parent directories): .git
+Initialized empty Git repository in C:/Nextion_Projects/AMG/.git/
+[master (root-commit) 433ee33] Nextion AMG
+ 41 files changed, 8 insertions(+)
+ create mode 100644 .gitignore
+ create mode 100644 1.png
+ create mode 100644 10.png
+ create mode 100644 11.png
+ create mode 100644 12.png
+ create mode 100644 13.png
+ create mode 100644 14.png
+ create mode 100644 15.png
+ create mode 100644 16.png
+ create mode 100644 17.png
+ create mode 100644 18.png
+ create mode 100644 19.jpg
+ create mode 100644 2.jpg
+ create mode 100644 20.jpg
+ create mode 100644 21.png
+ create mode 100644 22.png
+ create mode 100644 3.jpg
+ create mode 100644 4.png
+ create mode 100644 5.jpg
+ create mode 100644 6.jpg
+ create mode 100644 7.png
+ create mode 100644 8.png
+ create mode 100644 9.png
+ create mode 100644 ESP32 Display.HMI
+ create mode 100644 ESP32 Display.tft
+ create mode 100644 ESP32 Display.tft.190grad
+ create mode 100644 Einstellungen.page
+ create mode 100644 Page0.page
+ create mode 100644 Pump.page
+ create mode 100644 Sensors.page
+ create mode 100644 Starting_page.page
+ create mode 100644 T1.png
+ create mode 100644 Transparent2.png
+ create mode 100644 Values.page
+ create mode 100644 Velves.page
+ create mode 100644 Zeichnung2.png
+ create mode 100644 base64.png
+ create mode 100644 btAll.zi
+ create mode 100644 btnSettings.jpg
+ create mode 100644 keydB.page
+ create mode 100644 keydB0.page
+On branch master
+nothing to commit, working tree clean
+fatal: pathspec 'git-init-log.txt' did not match any files
+fatal: pathspec 'commit-message.txt' did not match any files
+On branch master
+nothing to commit, working tree clean
